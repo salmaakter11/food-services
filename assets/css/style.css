@@ -8514,19 +8514,20 @@ a.bundle-btn {
     z-index: 9999999;
 }
 #scrollUp {
-    background: #050035 none repeat scroll 0 0;
     bottom: 85px;
-    color: #ffffff;
-    cursor: pointer;
-    display: none;
-    font-size: 20px;
-    height: 40px;
-    line-height: 44px;
-    position: fixed;
-    right: 12px;
-    text-align: center;
-    width: 40px;
-    z-index: 9999;
+  color: #01020d;
+  cursor: pointer;
+  display: none;
+  font-size: 20px;
+  height: 40px;
+  line-height: 44px;
+  position: fixed;
+  right: 12px;
+  text-align: center;
+  width: 40px;
+  z-index: 9999;
+  border-style: solid;
+  border-color: rgb(0, 0, 0);
 }
 #scrollUp:hover {
     background: #333 none repeat scroll 0 0;
